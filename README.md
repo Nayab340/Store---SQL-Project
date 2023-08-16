@@ -25,6 +25,6 @@ In this MySQL Project I had to achieve the following:
 
 6. Check the Products quanitity that was in stock that were greater then 50 and started with the letter S
 
-    <img width="452" alt="image" src="https://github.com/Nayab340/Store---SQL-Project/assets/142215655/d5576201-c220-41f3-a57a934c9f76160b">
+    <img width="452" alt="image" src="https://github.com/Nayab340/Store---SQL-Project/assets/142215655/314310ab-5842-4ad1-b7b8-72f76a843748">
 
 7. Find the primary and foreign keys in the tables 
